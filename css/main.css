@@ -1,0 +1,29 @@
+body {
+    font-family: 'Merriweather', serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.navbar-nav {
+    margin-left: 80%;
+}
+
+.header-conten-right {
+    margin-left: 60%;
+    margin-top: -45%;
+}
+
+header {
+    margin-top: 75px;
+}
+
+#testimonial {
+    background: #f1f1f1;
+    padding: 50px 0 30px 0;
+    text-align: center;
+    margin-top: 40px;
+}
+
+footer {
+    background: url('../img/smartphones.png') ;
+}
